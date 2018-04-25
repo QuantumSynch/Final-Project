@@ -1,3 +1,6 @@
+// Tashfin Hassan
+// April 2018
+//
 import javax.swing.JFrame;
 
 public class FinalDriver
@@ -12,6 +15,5 @@ public class FinalDriver
       frame.setContentPane(p);
       p.requestFocus();
       frame.setVisible(true);
-      
    }
 }
